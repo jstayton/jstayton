@@ -4,6 +4,14 @@
 
 ### ——— Indie Hacking
 
+**[piratepx](https://www.piratepx.com/)**
+&nbsp;&nbsp;&nbsp;&nbsp;Just a little analytics insight for your personal or indie project
+&nbsp;&nbsp;&nbsp;&nbsp;[<img src="assets/node_js.svg" width="12" height="12" alt="Node.js" />](https://nodejs.org/)
+[<img src="assets/vue_js.svg" width="12" height="12" alt="Vue.js" />](https://vuejs.org/)
+[<img src="assets/tailwind_css.svg" width="12" height="12" alt="Tailwind CSS" />](https://tailwindcss.com/)
+[<img src="assets/postgresql.svg" width="12" height="12" alt="PostgreSQL" />](https://www.postgresql.org/)
+[<img src="assets/eleventy.svg" width="12" height="12" alt="11ty" />](https://www.11ty.dev/)
+
 **[Lateral.run](https://www.lateral.run/)**
 &nbsp;&nbsp;&nbsp;&nbsp;Empower your customers to extend your app, not your feature backlog
 &nbsp;&nbsp;&nbsp;&nbsp;[<img src="assets/node_js.svg" width="12" height="12" alt="Node.js" />](https://nodejs.org/)
